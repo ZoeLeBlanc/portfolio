@@ -1,0 +1,15 @@
+---
+title: Digital Pedagogy
+subtitle: Poster
+layout: default
+modal-id: 3
+date: 2015-03-19
+img: ConversationsonDigitalPedagogyPoster.png
+thumbnail: ConversationsonDigitalPedagogyPoster-thumbnail.png
+alt: image-alt
+project-date: March 2015
+client: Center for Teaching & Vanderbilt Institute of Digital Learning
+category: Poster
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

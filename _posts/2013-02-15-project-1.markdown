@@ -1,0 +1,15 @@
+---
+title: GHA Conference 2013
+subtitle: Poster
+layout: default
+modal-id: 1
+date: 2013-02-15
+img: GHAPoster2013.png
+thumbnail: GHAPoster2013-thumbnail.png
+alt: image-alt
+project-date: February 2013
+client: Graduate History Association
+category: Poster
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

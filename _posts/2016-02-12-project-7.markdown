@@ -1,0 +1,15 @@
+---
+title: Digital History Workshop
+subtitle: Poster
+layout: default
+modal-id: 7
+date: 2016-02-12
+img: vhsdigitalhistoryworkshopposter2016.png
+thumbnail: vhsdigitalhistoryworkshopposter2016-thumbnail.png
+alt: image-alt
+project-date: February 2016
+client: Vanderbilt History Seminar
+category: Poster
+description: Poster created for digital history workshop in February 2016. Used Ben Schmidt's iconic image of shipping logs from the 19th century, which is the most googled digital history image.
+
+---
