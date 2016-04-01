@@ -10,6 +10,7 @@ alt: image-alt
 project-date: September 2015
 client: Private Comapny
 category: Web Design
-description: Built personal website in jekyll, iterated off of the Writer theme but added substantial personalization. Link to full website at http://zoeleblanc.com/
+link: http://zoeleblanc.com/
+description: Built personal website in jekyll, iterated off of the Writer theme but added substantial personalization. Link to full website at 
 
 ---
