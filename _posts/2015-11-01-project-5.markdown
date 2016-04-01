@@ -1,0 +1,15 @@
+---
+title: Miller Website
+subtitle: Website Design
+layout: default
+modal-id: 5
+date: 2015-11-01
+img: Millerwebsite.png
+thumbnail: Millerwebsite-thumbnail.png
+alt: image-alt
+project-date: November 2015
+client: Private Comapny
+category: Web Design
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Anatolution Mockup
+subtitle: Website Design
+layout: default
+modal-id: 6
+date: 2016-02-01
+img: AnatolutionMockup.png
+thumbnail: AnatolutionMockup-thumbnail.png
+alt: image-alt
+project-date: February 2016
+client: Private Comapny
+category: Web Design
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
