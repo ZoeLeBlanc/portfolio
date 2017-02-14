@@ -9,7 +9,7 @@ thumbnail: GHAPoster2013-thumbnail.png
 alt: image-alt
 project-date: February 2013
 client: Graduate History Association
-category: Poster
+categories: Design
 description: Poster for GHA Annual Conference. Theme was New Approaches to History. Made in Photoshop.
 
 ---

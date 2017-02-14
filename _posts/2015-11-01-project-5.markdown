@@ -9,7 +9,7 @@ thumbnail: Millerwebsite-thumbnail.png
 alt: image-alt
 project-date: November 2015
 client: Private Comapny
-category: Web Design
+categories: Design
 description: Build website in Jekyll for partner. Iterated off of the Strata theme. Link to full website at https://danieljamesmiller.github.io/
 
 ---

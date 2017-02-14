@@ -1,0 +1,12 @@
+<div id="category" class="bg-light-gray">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="filter-btn-group">
+                {% for category in site.categories %}
+                <a id="category_link" data-filter=".{{ category | first }}">{{ category | first }}</a>
+                {% endfor %}
+                <a class="active-test" id="category_link" data-filter="*">All</a>
+            </div>
+        </div>
+    </div>
+</div>

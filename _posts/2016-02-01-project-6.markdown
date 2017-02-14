@@ -9,7 +9,7 @@ thumbnail: AnatolutionMockup-thumbnail.png
 alt: image-alt
 project-date: February 2016
 client: Private Comapny
-category: Web Design
+categories: Design
 description: Built mockup for a web application. Made in Sketch.
 
 ---

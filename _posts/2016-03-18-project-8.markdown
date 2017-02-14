@@ -9,7 +9,7 @@ thumbnail: GHAposter2016-thumbnail.png
 alt: image-alt
 project-date: March 2016
 client: Graduate History Association
-category: Poster
+categories: Design
 description: Poster for GHA Annual Conference. Theme was Center and Peripheries. Made in Photoshop.
 
 ---

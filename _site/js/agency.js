@@ -35,3 +35,16 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+var $grid = $('.grid').isotope({
+      itemSelector: '.portfolio-item',
+      layoutMode: 'fitRows'
+    });
+    // filter items on button click
+    $('.filter-btn-group').on( 'click', 'a', function() {
+      var filterValue = $(this).attr('data-filter');
+      $grid.isotope({ filter: filterValue });
+    });
+    $('.btn-group a.btn').on('click', function(){
+        $('.btn-group a.btn').removeClass('active');
+        $(this).addClass('active');
+});
