@@ -1,9 +1,13 @@
+
 url: https://zoeleblanc.github.io/
 baseurl: /portfolio
+=======
+url: https://zoeleblanc.github.io/portfolio
 
 # Site settings
 title: Zoe's Portfolio
 email: zgleblanc@gmail.com
+
 description: "All my current projects. Sort them by category"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -11,13 +15,6 @@ color:
   primary: 726e7b
   secondary: 333  
   secondary-dark: 000
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/Zoe_LeBlanc
-  - title: github
-    url: http://github.com/zoeleblanc
 
 # Build settings
 markdown: kramdown

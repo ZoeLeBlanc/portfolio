@@ -26,6 +26,7 @@ p {
 p.large {
     font-size: 16px;
 }
+
 #category_link {
     text-transform: uppercase;
     font-size: 2em;
@@ -35,6 +36,7 @@ p.large {
 #category_link:hover {
     color: lightblue;
 }
+
 a,
 a:hover,
 a:focus,
@@ -53,6 +55,7 @@ a:active,
 a.active {
     color: #{{ site.color.secondary }};
 }
+
 h1,
 h2,
 h3,
@@ -332,6 +335,9 @@ header .intro-text .intro-heading {
     padding: 1em;
 }
 
+section {
+    padding: 100px 0;
+}
 
 section h2.section-heading {
     margin-top: 0;
@@ -800,7 +806,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }

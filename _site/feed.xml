@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Zoe's Portfolio</title>
     <description>All my current projects. Sort them by category</description>
     <link>http://localhost:4000/portfolio/</link>
@@ -21,17 +22,34 @@
         <category>Web Development</category>
         
       </item>
+=======
+    <title>Awesome Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://y7kim.github.io/agency-jekyll-theme//</link>
+    <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Apr 2016 11:25:20 -0500</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 11:25:20 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
     
       <item>
         <title>GHA Conference 2016</title>
         <description>
 </description>
         <pubDate>Fri, 18 Mar 2016 00:00:00 -0500</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2016/03/18/project-8/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2016/03/18/project-8/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//poster/2016/03/18/project-8/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//poster/2016/03/18/project-8/</guid>
+        
+        
+        <category>Poster</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -40,11 +58,19 @@
         <description>
 </description>
         <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2016/02/12/project-7/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2016/02/12/project-7/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//poster/2016/02/12/project-7/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//poster/2016/02/12/project-7/</guid>
+        
+        
+        <category>Poster</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -53,11 +79,19 @@
         <description>
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2016/02/01/project-6/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2016/02/01/project-6/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20design/2016/02/01/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20design/2016/02/01/project-6/</guid>
+        
+        
+        <category>Web Design</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -66,11 +100,19 @@
         <description>
 </description>
         <pubDate>Sun, 01 Nov 2015 00:00:00 -0500</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2015/11/01/project-5/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2015/11/01/project-5/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20design/2015/11/01/project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20design/2015/11/01/project-5/</guid>
+        
+        
+        <category>Web Design</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -79,11 +121,19 @@
         <description>
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0500</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2015/09/01/project-4/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2015/09/01/project-4/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20design/2015/09/01/project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20design/2015/09/01/project-4/</guid>
+        
+        
+        <category>Web Design</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -92,11 +142,19 @@
         <description>
 </description>
         <pubDate>Thu, 19 Mar 2015 00:00:00 -0500</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2015/03/19/project-3/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2015/03/19/project-3/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//poster/2015/03/19/project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//poster/2015/03/19/project-3/</guid>
+        
+        
+        <category>Poster</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -105,11 +163,19 @@
         <description>
 </description>
         <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2015/02/20/project-2/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2015/02/20/project-2/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//poster/2015/02/20/project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//poster/2015/02/20/project-2/</guid>
+        
+        
+        <category>Poster</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
@@ -118,11 +184,19 @@
         <description>
 </description>
         <pubDate>Fri, 15 Feb 2013 00:00:00 -0600</pubDate>
+<<<<<<< HEAD
         <link>http://localhost:4000/portfolio/design/2013/02/15/project-1/</link>
         <guid isPermaLink="true">http://localhost:4000/portfolio/design/2013/02/15/project-1/</guid>
         
         
         <category>Design</category>
+=======
+        <link>https://y7kim.github.io/agency-jekyll-theme//poster/2013/02/15/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//poster/2013/02/15/project-1/</guid>
+        
+        
+        <category>Poster</category>
+>>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
         
       </item>
     
