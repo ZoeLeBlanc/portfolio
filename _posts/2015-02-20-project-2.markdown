@@ -9,12 +9,6 @@ thumbnail: GHAposter2015-thumbnail.png
 alt: image-alt
 project-date: February 2015
 client: Graduate History Association
-<<<<<<< HEAD
 categories: Design
 description: Poster for GHA Annual Conference. Theme was Movement. Made in Photoshop.
-=======
-category: Poster
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
->>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
-
 ---

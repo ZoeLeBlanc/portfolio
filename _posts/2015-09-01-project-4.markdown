@@ -9,12 +9,6 @@ thumbnail: Leblancwebsite-thumbnail.png
 alt: image-alt
 project-date: September 2015
 client: Private Comapny
-<<<<<<< HEAD
 categories: Design
 description: Built personal website in jekyll, iterated off of the Writer theme but added substantial personalization. Link to full website at http://zoeleblanc.com/.
-=======
-category: Web Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
->>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
-
 ---

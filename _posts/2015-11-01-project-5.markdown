@@ -9,12 +9,7 @@ thumbnail: Millerwebsite-thumbnail.png
 alt: image-alt
 project-date: November 2015
 client: Private Comapny
-<<<<<<< HEAD
 categories: Design
-description: Build website in Jekyll for partner. Iterated off of the Strata theme. Link to full website at https://danieljamesmiller.github.io/
-=======
-category: Web Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
->>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
+description: Build website in Jekyll. Iterated off of the Strata theme. Link to full website at https://danieljamesmiller.github.io/
 
 ---
