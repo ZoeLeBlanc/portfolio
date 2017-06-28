@@ -34,7 +34,7 @@ $('div.modal').on('show.bs.modal', function() {
 			$(modal).modal('hide');
 		}
 	}
-<<<<<<< HEAD
+
 });
 var $grid = $('.grid').isotope({
       itemSelector: '.portfolio-item',
@@ -48,6 +48,5 @@ var $grid = $('.grid').isotope({
     $('.btn-group a.btn').on('click', function(){
         $('.btn-group a.btn').removeClass('active');
         $(this).addClass('active');
-=======
->>>>>>> 22f9ee7c17c1adf792f9b9069ef8916ad4384060
+
 });
